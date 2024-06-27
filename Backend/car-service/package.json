@@ -1,0 +1,22 @@
+{
+  "name": "car-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon entry",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "car",
+    "ecommerce"
+  ],
+  "author": "Yamman",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  }
+}
